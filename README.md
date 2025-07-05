@@ -38,6 +38,8 @@ pip install ultralytics opencv-python torch
 yolov8n.pt — Nano YOLO model, fast and lightweight.
 
 
-📬 Contact
+📬 Contact - 
+
 Made by Tanya Chandra
+
 Reach me on LinkedIn- https://www.linkedin.com/in/tanya-chandra-36349b281/
