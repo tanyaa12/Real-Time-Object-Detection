@@ -6,6 +6,7 @@ This project uses the YOLOv8 model to perform real-time object detection from a 
 - Webcam display
 
 
+
 ## 🚀 How to Run
 
 1. Clone this repository  
@@ -14,6 +15,7 @@ git clone https://github.com/your-username/RealTime-Object-Detection.git
 cd RealTime-Object-Detection
 ```
 
+
 ⚙️ Requirements
 Python 3.9 or later
 OpenCV
@@ -21,13 +23,16 @@ ultralytics (YOLOv8)
 PyTorch
 winsound (built-in on Windows)
 
+
 Install dependencies via:
 ```bash
 pip install ultralytics opencv-python torch
 ```
 
+
 🧠 Model Used
 yolov8n.pt — Nano YOLO model, fast and lightweight.
+
 
 📬 Contact
 Made by Tanya Chandra
