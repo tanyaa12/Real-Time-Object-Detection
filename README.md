@@ -7,6 +7,10 @@ This project uses the YOLOv8 model to perform real-time object detection from a 
 
 
 
+⚙️ **Tech Stack:**
+`Python`, `YOLOv8`, `OpenCV`, `PyTorch`, `Ultralytics`
+
+
 ## 🚀 How to Run
 
 1. Clone this repository  
