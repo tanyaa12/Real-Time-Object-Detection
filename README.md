@@ -3,7 +3,7 @@
 This project uses the YOLOv8 model to perform real-time object detection from a webcam feed. 
 
 - Real-time object detection with YOLOv8
-- Webcam display
+- Full Screen Webcam display
 
 
 
